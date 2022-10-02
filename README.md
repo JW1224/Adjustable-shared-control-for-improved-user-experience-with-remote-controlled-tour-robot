@@ -3,7 +3,7 @@
 ## Required to run:  
 -MATLAB 2022a  
 -Python 3.9  
--Virtual Machine IP address running Gazebo sim with turtlebot  
+-Virtual Machine IP address running Gazebo sim with turtlebot (noetic or foxy)
 -Xbox controller  
 
 ## Setup
