@@ -1,5 +1,7 @@
 # Adjustable shared control for improved user experience with remote controlled tour robot 
 
+A short video to describe the project: https://youtu.be/_n8z8WXDfLQ  
+
 ## Required to run:  
 -MATLAB 2022a  
 -Python 3.9  
